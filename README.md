@@ -1,3 +1,4 @@
 # Python Programlamaya Giriş
 Bu derslerde öncelikle Programlamaya giriş konularında eğitim yapacağız. Bu konuların içerisinde programlama nedir gibi temel tanımlarla başlayacağız. Sonrasında Algoritma nın ne olduğunu öğreneceğiz.Problemlerimizi çözebilmek için ne şekilde algoritma oluşturacağımızı öğreneceğiz. Çok üzerinde durmasakta Akış çzgesi kavramını anlatağız. Ayrıca yazdığımız algoritmaları çalıştıracağız ve sonuçlarını kağıt üzerinde kendimiz oluşturacağız.
-Sonra Programlamaya girişte anlatılan konuların Bilgisayar ortamında uygulanabilir olması için bir programlama dili #b (PYTHON) öğreneceğiz.
+
+Sonra Programlamaya girişte anlatılan konuların Bilgisayar ortamında uygulanabilir olması için bir programlama dili **(PYTHON)** öğreneceğiz.
